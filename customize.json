@@ -1,11 +1,11 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
+  "greeting": "Rất chào em,",
+  "name": "Dương Phương Trúc",
   "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
+  "wishText": "Hey you look good on short hair too, btw",
+  "imagePath": "img/happybirthday.png",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "textInChatBox": "Happy birthday to most beautiful woman in the world!! You always keep looking young and beautiful",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": ":)"
+  "outroText": "Bí mật mà ai cũng biết là em nhìn giống u25 hơn là u30, keep it nhó",
+  "replayText": "Again, Đi ăn nhé, Lộ Bàng Thổ tính ra sẽ trung hoà được bản tính kiên cường của Vàng Trong Kiếm, cát lợi đôi đường - wikipedia",
+  "outroSmiley": ":):):)"
 }
