@@ -18,7 +18,7 @@ const fetchData = () => {
         // Check if the iteration is over
         // Run amimation if so
         if ( dataArr.length === dataArr.indexOf(customData) + 1 ) {
-          var audio = $('.song')[0];
+          var audio = new Audio('hbd.mp3');
           audio.play();
           animationTimeline();
         } 
